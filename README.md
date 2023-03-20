@@ -2,7 +2,7 @@
 
 Analyzing box office performance for different types of films
 
-**Authors**: Geoff Voght, James Beansuli
+**Authors**: Geoff Voght, James Benasuli
 
 ## Overview
 
